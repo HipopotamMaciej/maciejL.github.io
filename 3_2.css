@@ -1,0 +1,29 @@
+.body{
+    background-color: rgb(231, 228, 234);
+}
+.main1{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 20px;
+}
+.main1 div{
+    text-align: center;
+}
+.main1 div img{
+     width: 250px;
+     height: 250px;
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 20px;
+}
+.main2 div{
+    text-align: center;
+}
+.main2 div img{
+     width: 250px;
+     height: 250px;
+}
