@@ -53,4 +53,10 @@ body {
     width: 100px;
     border-radius: 20px ;
     cursor: pointer;
+
+}
+
+iframe{
+    border-radius: 50px;
+    margin-left: 40px;
 }
