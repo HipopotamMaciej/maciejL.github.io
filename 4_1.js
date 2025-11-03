@@ -40,7 +40,7 @@ document.getElementById('wyn').addEventListener('click', function(){
         {
             wynik = ""
         }
-        theallequation = wynik
+        theallequation = String(wynik)
         aktualizuj();
 
     }
@@ -49,3 +49,4 @@ document.getElementById('wyn').addEventListener('click', function(){
         aktualizuj();
     }
 })
+
